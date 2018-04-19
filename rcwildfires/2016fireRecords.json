@@ -44,7 +44,8 @@
       -121.44954,
       44.49723
     ],
-    "inciwebId": "4772"
+    "inciwebId": "4772",
+    "percentForest": 99
   },
   {
     "fireYear": 2016,
@@ -70,7 +71,8 @@
     "location": [
       -120.57129,
       45.36037
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -100,7 +102,8 @@
     "location": [
       -120.28875,
       45.44221
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -122,7 +125,8 @@
     "location": [
       -120.28616,
       44.07695
-    ]
+    ],
+    "percentForest": 100
   },
   {
     "fireYear": 2016,
@@ -181,7 +185,8 @@
       -122.19048,
       42.92399
     ],
-    "inciwebId": "4899"
+    "inciwebId": "4899",
+    "percentForest": 100
   },
   {
     "fireYear": 2016,
@@ -224,7 +229,8 @@
       -117.23024,
       43.56452
     ],
-    "inciwebId": "4974"
+    "inciwebId": "4974",
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -246,7 +252,8 @@
     "location": [
       -121.00663,
       45.63758
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -288,7 +295,8 @@
     "location": [
       -117.91468,
       43.47966
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -330,7 +338,8 @@
     "location": [
       -118.05565,
       43.62413
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -376,7 +385,8 @@
     "location": [
       -117.7446,
       43.72459
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -403,7 +413,8 @@
       -117.65167,
       45.45977
     ],
-    "inciwebId": "5050"
+    "inciwebId": "5050",
+    "percentForest": 100
   },
   {
     "fireYear": 2016,
@@ -434,7 +445,8 @@
       -117.4827,
       42.75489
     ],
-    "inciwebId": "4763"
+    "inciwebId": "4763",
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -685,7 +697,8 @@
       -118.34305,
       44.34723
     ],
-    "inciwebId": "4914"
+    "inciwebId": "4914",
+    "percentForest": 100
   },
   {
     "fireYear": 2016,
@@ -711,7 +724,8 @@
     "location": [
       -121.11783,
       44.83527
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -733,7 +747,8 @@
     "location": [
       -118.09817,
       43.60336
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -755,7 +770,8 @@
     "location": [
       -117.77957,
       43.72859
-    ]
+    ],
+    "percentForest": 0
   },
   {
     "fireYear": 2016,
@@ -794,6 +810,7 @@
       -120.59631,
       42.69849
     ],
-    "inciwebId": "4967"
+    "inciwebId": "4967",
+    "percentForest": 93
   }
 ]
