@@ -57,4 +57,9 @@ node getfirekmzs/genwget.js > k.sh # Then move to kmz directory, +x
 Load in mapshaper online
   Then in command line: -proj wgs84
   The export options: "precision=0.0001" - export to geojson
-``
+```
+
+#### Forestland
+```
+mapshaper -i forestland.shp -proj wgs84 -simplify 25% -o forestland.json
+```
