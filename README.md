@@ -44,12 +44,10 @@ change PARAMETER["Central_Parallel" to PARAMETER["latitude_of_origin" in prj fil
 ```
 
 #### MTBS
+After downloading from MTBS.org (Direct Download, Oregon, all years)
 ```
-node parsemtbslist.js > MTBS/MTBSOregonFiresGen20170531.json
-node node_modules/sampleterrain/sampleterrain.js -f MTBS/MTBSOregonFiresGen20170531.json > MTBS/MTBSOregonFiresGen20170531Sampled.json
-node getfirekmzs/genwget.js > k.sh # Then move to kmz directory, +x
-./k.sh
-./fixkmz.sh
+node parsemtbslistfromfs.js > MTBS/MTBSOregonFiresGen20180811.json
+node node_modules/sampleterrain/sampleterrain.js -f MTBS/MTBSOregonFiresGen20180811.json > MTBS/MTBSOregonFiresGen20180811Sampled.json.json
 ```
 
 #### BLM shp to geojson
