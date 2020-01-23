@@ -44,10 +44,9 @@ change PARAMETER["Central_Parallel" to PARAMETER["latitude_of_origin" in prj fil
 ```
 
 #### MTBS
-After downloading from MTBS.org (Direct Download, Oregon, all years)
+Use [getMTBS](https://github.com/jimmyangel/getMTBS) utility
 ```
-node parsemtbslistfromfs.js > MTBS/MTBSOregonFiresGen20180811.json
-node node_modules/sampleterrain/sampleterrain.js -f MTBS/MTBSOregonFiresGen20180811.json > MTBS/MTBSOregonFiresGen20180811Sampled.json.json
+node node getMTBS.js -y 2017
 ```
 
 #### BLM shp to geojson
